@@ -1,0 +1,18 @@
+Square Root Calculator Example:
+
+Input:
+Enter a number: -16
+
+Output:
+Error: Cannot calculate the square root of a negative number.
+
+ATM Withdrawal System Example:
+
+Input:
+Enter PIN: 1234
+Withdraw Amount: 5000
+
+Output:
+Error: Insufficient balance.
+Current Balance: 3000
+
